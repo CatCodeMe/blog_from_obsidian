@@ -1,12 +1,8 @@
 ---
-tags:
-  - publish_blog
+title: Welcome to Quartz
+date: 2024-01-29
 publish: "true"
-title: 1111_blog
 ---
-
-
-网站的首页
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
