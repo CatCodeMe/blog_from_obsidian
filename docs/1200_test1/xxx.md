@@ -24,7 +24,7 @@ qewqewq
 fhsdafhsadhfadf
 
 sdfasdfadfdasfsafasd
-使用 easy-bake 渲染嵌入文档，但是未发布原文档
+使用 easy-bake 渲染 `嵌入文档，但是未发布原文档`
 
 添加图片引用，但是不使用 bake
 ![[../../publish_attach/20240217-t3.png|../999_repository/20240217-t3.png]]
