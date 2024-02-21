@@ -21,9 +21,11 @@ qewqewq
 | ~~23~~ |  |  |  |
 
 123123312312 引用在哪里？
-fhsdafhsadhfadf
+fhsdafhsadhfadf 123123 nochange
 
-sdfasdfadfdasfsafasd
+![[not_pub#^c6gd1v|not_pub > ^c6gd1v]]
+
+dfsafxxxx
 使用 easy-bake 渲染 `嵌入文档，但是未发布原文档`
 
 添加图片引用，但是不使用 bake
