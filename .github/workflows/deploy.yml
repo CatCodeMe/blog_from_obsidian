@@ -10,7 +10,7 @@ jobs:
       - name: Push to repo
         uses: peter-evans/repository-dispatch@v3
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.GH_ACTION_TOKEN }}
           repository: ${{ matrix.repo }}
           event-type: build
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "module": "content", "branch": "v4"}'
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
