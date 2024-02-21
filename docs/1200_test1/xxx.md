@@ -2,7 +2,6 @@
 publish: "true"
 tags:
   - 1BRC
-embed: bake
 ---
 
 老笔记
@@ -24,7 +23,8 @@ qewqewq
 123123312312 引用在哪里？
 fhsdafhsadhfadf 123123 nochange
 
--> [[./not_pub#^c6gd1v|not_pub > ^c6gd1v]]
+AAA / not_pub
+未发布文章 sfsdfsfsfsdfsdfsaf的引用ZZZ / ./not_pub.md
 
 dfsafxxxx
 使用 easy-bake 渲染 `嵌入文档，但是未发布原文档`
