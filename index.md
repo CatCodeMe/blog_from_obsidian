@@ -3,6 +3,7 @@ URI_UID: f94c3438-e376-45cc-bfc8-1298e978a0e6
 publish: "true"
 title: homepage
 path: /
+delete: "false"
 ---
 Tests
 
