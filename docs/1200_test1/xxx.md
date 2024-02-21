@@ -24,7 +24,8 @@ embed
 fhsdafhsadhfadf 123123 nochange
 
 
-![[./not_pub#^c6gd1v|not_pub > ^c6gd1v]]
+> 
+未发布文章 sfsdfsfsfsdfsdfsaf的引用> from: [not_pub](./not_pub.md)
 
 
 xxxxvvvvvvv
@@ -39,4 +40,6 @@ dfsafxxxx
 
 - 普通引用 [[./not_pub#^eexvmr|not_pub > ^eexvmr]]
 - 嵌入式引用
-![[./not_pub#^eexvmr|not_pub > ^eexvmr]]
+> 
+> [!ERROR] Title
+>not pub> from: [not_pub](./not_pub.md)
