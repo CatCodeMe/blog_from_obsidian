@@ -12,7 +12,7 @@ tags:
 qewqewq
 # 1
 ## 2
-
+embed
 写一段引用文字（已发布的文章）
 
 |  |  |  |  |
@@ -22,9 +22,10 @@ qewqewq
 
 123123312312 引用在哪里？
 fhsdafhsadhfadf 123123 nochange
-fdsfds
-
-xxxxvvvvvvv
+- fdsfds
+未发布文章 sfsdfsfsfsdfsdfsaf的引用
+- 11
+- xxxxvvvvvvv
 dfsafxxxx
 使用 easy-bake 渲染 `嵌入文档，但是未发布原文档`
 
@@ -36,3 +37,5 @@ dfsafxxxx
 
 - 普通引用 [[./not_pub#^eexvmr|not_pub > ^eexvmr]]
 - 嵌入式引用
+> [!ERROR] Title
+>not pub
