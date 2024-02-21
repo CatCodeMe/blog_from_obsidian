@@ -9,8 +9,9 @@ jobs:
     steps:
       - name: Push to repo
         uses: peter-evans/repository-dispatch@v3
+        env:
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.gh_action_token_PAT }}
           repository: ${{ matrix.repo }}
           event-type: build
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "module": "content", "branch": "main"}'
