@@ -23,7 +23,7 @@ qewqewq
 123123312312 引用在哪里？
 fhsdafhsadhfadf 123123 nochange
 fdsfds
--> [[./not_pub#^c6gd1v|not_pub > ^c6gd1v]]
+
 xxxxvvvvvvv
 dfsafxxxx
 使用 easy-bake 渲染 `嵌入文档，但是未发布原文档`
@@ -36,4 +36,3 @@ dfsafxxxx
 
 - 普通引用 [[./not_pub#^eexvmr|not_pub > ^eexvmr]]
 - 嵌入式引用
--> [[./not_pub#^eexvmr|not_pub > ^eexvmr]]
