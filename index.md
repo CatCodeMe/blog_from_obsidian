@@ -1,11 +1,6 @@
----
-publish: "true"
-path: /
-title: index
----
 
-# It's homepage
-
-homepage but in `1112_test` dir 
-
-修改首页
+首页
+1
+2
+2
+3
