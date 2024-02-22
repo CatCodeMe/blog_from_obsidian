@@ -28,7 +28,8 @@ fhsdafhsadhfadf 123123 nochange
 
 
 >  [!NOTE] 
-未发布文章 sfsdfsfsfsdfsdfsaf的引用
+>   
+未发布文章 sfsdfsfsfsdfsdfsaf的引用>  
 >  from [not_pub](./not_pub.md)
 
 
@@ -47,6 +48,7 @@ dfsafxxxx
 
 
 >  [!NOTE] 
+>   
 > [!ERROR] Title
->not pub
+>not pub>  
 >  from [not_pub](./not_pub.md)
