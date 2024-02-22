@@ -2,14 +2,16 @@
 publish: "true"
 tags:
   - 1BRC
+dg-publish: true
 ---
 
-老笔记
+
+
+# 老笔记
 12312
 1. 123
 2. Afd
-> 123
-qewqewq
+
 # 1
 ## 2
 embed
@@ -24,8 +26,9 @@ embed
 fhsdafhsadhfadf 123123 nochange
 
 
-"`
-未发布文章 sfsdfsfsfsdfsdfsaf的引用` from [not_pub](./not_pub.md)"
+> 
+> 
+未发布文章 sfsdfsfsfsdfsdfsaf的引用> from [not_pub](./not_pub.md)
 
 
 xxxxvvvvvvv
@@ -40,6 +43,7 @@ dfsafxxxx
 
 - 普通引用 [[./not_pub#^eexvmr|not_pub > ^eexvmr]]
 - 嵌入式引用
-"`
+> 
+> 
 > [!ERROR] Title
->not pub` from [not_pub](./not_pub.md)"
+>not pub> from [not_pub](./not_pub.md)
