@@ -40,9 +40,6 @@ dfsafxxxx
 - 普通引用 
 - 嵌入式引用
 
-> [!ERROR] Title
->not pub
+![[./not_pub#^eexvmr|not_pub > ^eexvmr]]
 
-dsffd
-123213213
-123cvcx**
+![[./not_pub#^wi1inz|not_pub > ^wi1inz]]**
