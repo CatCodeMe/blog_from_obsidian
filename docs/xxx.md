@@ -37,5 +37,9 @@ dfsafxxxx
 测试 excalidraw 图片
 ![[../publish_attach/2024-02-15笔记加工梳理流程.svg|2024-02-15笔记加工梳理流程.excalidraw]]
 
-- 普通引用 [[not pub#^eexvmr|not pub]]
+- 普通引用 
 - 嵌入式引用
+
+![[./not_pub#^eexvmr|not_pub > ^eexvmr]]
+
+![[./not_pub#^wi1inz|not_pub > ^wi1inz]]
