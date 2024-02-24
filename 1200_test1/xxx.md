@@ -40,6 +40,6 @@ dfsafxxxx
 - 普通引用 
 - 嵌入式引用
 
-![[./not_pub#^eexvmr|not_pub > ^eexvmr]]
+![[./not_pub#^eexvmr]]
 
-![[./not_pub#^wi1inz|not_pub > ^wi1inz]]**
+![[./not_pub#^wi1inz]]
