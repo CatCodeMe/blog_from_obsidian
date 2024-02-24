@@ -1,7 +1,8 @@
 ---
-publish: "true"
-title: 1112_test
+{"publish":true,"path":"1112_test/index.md","permalink":"/1112-test/index/"}
 ---
 
 
-其他文件夹的index.md
+# It's homepage
+
+homepage but in `1112_test` dir 
