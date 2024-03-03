@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"root/rewrite\"","permalink":"/\"root/rewrite\"/"}
+{"dg-publish":true}
 ---
 
 
