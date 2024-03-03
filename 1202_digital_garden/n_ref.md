@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1202_digital_garden/n_ref/"}
+{"dg-publish":true}
 ---
 
 
