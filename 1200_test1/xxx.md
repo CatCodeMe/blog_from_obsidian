@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1200_test1/xxx/","tags":["1BRC"]}
+{"dg-publish":true,"tags":["1BRC"]}
 ---
 
 
