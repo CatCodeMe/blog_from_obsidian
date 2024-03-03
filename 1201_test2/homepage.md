@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/","permalink":"///","hide":true}
+{"dg-publish":true,"hide":true}
 ---
 
 1233
