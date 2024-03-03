@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1300_mac_local_quartz/test3_ref_by_dg_garden/"}
+{"dg-publish":true}
 ---
 
 
