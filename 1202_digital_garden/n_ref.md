@@ -8,7 +8,7 @@
 
 - 普通
 
-[[1202_digital_garden/n1#^s7u31z]]
+[[1202_digital_garden/n1#^s7u31z|dispaly name _+#123]]
 
 - embed 
 ![[1202_digital_garden/n1#^s7u31z]]
