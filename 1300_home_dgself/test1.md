@@ -16,3 +16,6 @@
 
 > [!NOTE]+ Title
 > Contents
+
+
+![[1205_publisher/1#^bg6rsm]]
