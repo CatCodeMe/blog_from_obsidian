@@ -18,7 +18,7 @@
 > Contents
 
 
-![[/aaa/1.md#^bg6rsm]]
+![[aaa/1.md#^bg6rsm]]
 
 
 ![[1300_home_dgself/test2#h2]]
