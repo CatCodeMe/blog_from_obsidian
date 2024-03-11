@@ -30,3 +30,10 @@
 
 - 普通引用中文路径带空格
 [[1300_home_dgself/中文路径名 带空格#^g1ktut\|别名起名字]]
+
+| Class                                                       | Subclass                                                                                    | Feats                                                       |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [[bard#Bardic Inspiration (Level 1)\|Bardic Inspiration]]   | [[bard-college-of-glamour-xge#Mantle of Inspiration (Level 3)\|Mantle of Inspiration 8thp]] | [[fey-touched-tce\|Fey Touched]]                            |
+| [[bard#Song of Rest (d6) (Level 2)\|Song of Rest d6]]       | [[bard-college-of-glamour-xge#Enthralling Performance (Level 3)\|Enthralling Performance]]  | [[strixhaven-initiate-scc\|Strixhaven Initiate (Quandrix)]] |
+| [[bard#Font of Inspiration (Level 5)\|Font of Inspiration]] | [[bard-college-of-glamour-xge#Mantle of Majesty (Level 6)\|Mantle of Majesty]]              |                                                             |
+| [[bard#Countercharm (Level 6)\|Countercharm]]               |                                                                                             |                                                             |
