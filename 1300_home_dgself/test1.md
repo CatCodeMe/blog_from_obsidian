@@ -24,3 +24,9 @@
 ![[1300_home_dgself/test2#h2]]
 
 [[1300_home_dgself/test2#h21]]
+
+- 嵌入块引用中文路径带空格
+![[1300_home_dgself/中文路径名 带空格#^6wu2wh]]
+
+- 普通引用中文路径带空格
+[[1300_home_dgself/中文路径名 带空格#^g1ktut]]
