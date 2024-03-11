@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true}
+{"dg-publish":true,"tags":["#test-dv"]}
 ---
 
 
