@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true}
+{"date":"2024-03-19 15:44:49","updated":"2024-03-19 15:45:01","dg-publish":true,"dg-path":"/"}
 ---
 
 
-测试用的首页，否则返回xml了
-asdsaa
+ccm's homepage
