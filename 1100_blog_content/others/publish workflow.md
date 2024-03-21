@@ -7,23 +7,25 @@
 1. prepare quartz, see [Quartz: Get Started](https://quartz.jzhao.xyz/)
 2. init an empty repository for **publishing your notes**
 	- follow these steps [Quartz: Setting up your GitHub repository](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
-	- Hitherto, the git like this
-		- `quart_demo`(**just for demo**) yourself repo for build, it's usually `your_github_name.github.io`
-	```shell
-$$ git remote -v
-oorigin	git@github.com:CatCodeMe/quartz_demo.git (fetch)
+	- Hitherto, your git should like 
+		- `quart_demo`[^1] ( **just for demo**) yourself repo for build, it's usually `your_github_name.github.io`
+```shell
+$ git remote -v
+porigin	git@github.com:CatCodeMe/quartz_demo.git (fetch)
 oorigin	git@github.com:CatCodeMe/quartz_demo.git (push)
 uupstream	https://github.com/jackyzha0/quartz.git (fetch)
 uupstream	https://github.com/jackyzha0/quartz.git (push)
-````
+```
+
 3. Hitherto , you can use single repo like quartz site, or use `submodule`
 4. For single repo, see [Quartz：Hosting](https://quartz.jzhao.xyz/hosting)
 5. For **submodule**, follow me.
-	1. go to github, create another empty repository like step2, for example `content_demo` [^1]
+	1. go to github, create another empty repository like step2, for example `content_demo` [^2]
 
 # issues
 - ctime, utime
 
 
 
-[^1] [content_demo repo](https://github.com/CatCodeMe/content_demo.git)
+[^1] [quartz_demo repo](https://github.com/CatCodeMe/quartz_demo)
+[^2] [content_demo repo](https://github.com/CatCodeMe/content_demo.git)
