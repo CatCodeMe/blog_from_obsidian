@@ -7,8 +7,7 @@
 1. prepare quartz, see [Quartz: Get Started](https://quartz.jzhao.xyz/)
 2. init an empty repository for **publishing your notes**
 	- follow these steps [Quartz: Setting up your GitHub repository](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
-	- Hitherto, your git should like 
-		- `quart_demo`[^1] ( **just for demo**) yourself repo for build, it's usually `your_github_name.github.io`
+	- Hitherto, your git should like this picture, `quart_demo`[^1] ( **just for demo**) is your repo for building, it's usually `your_github_name.github.io` if use github pages.[]()
 	```shell
 	$ git remote -v
 	origin	git@github.com:CatCodeMe/quartz_demo.git (fetch)
@@ -24,11 +23,6 @@
 
 # issues
 - ctime, utime
-	```java {2} /void/
-	public static void main(){
-	  new Object() //高亮没了？
-	}
-	```
 
 [^1]: [quartz_demo repo](https://github.com/CatCodeMe/quartz_demo)
 [^2]: [content_demo repo](https://github.com/CatCodeMe/content_demo.git)
