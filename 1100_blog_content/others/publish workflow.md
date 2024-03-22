@@ -24,7 +24,11 @@ upstream	https://github.com/jackyzha0/quartz.git (push)
 
 # issues
 - ctime, utime
-
+```java {2} /void/
+public static void main(){
+  new Object() //高亮没了？
+}
+```
 
 [^1]: [quartz_demo repo](https://github.com/CatCodeMe/quartz_demo)
 [^2]: [content_demo repo](https://github.com/CatCodeMe/content_demo.git)
