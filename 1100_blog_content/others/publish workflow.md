@@ -9,13 +9,13 @@
 	- follow these steps [Quartz: Setting up your GitHub repository](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
 	- Hitherto, your git should like 
 		- `quart_demo`[^1] ( **just for demo**) yourself repo for build, it's usually `your_github_name.github.io`
-	```shell
-	$ git remote -v
-	origin	git@github.com:CatCodeMe/quartz_demo.git (fetch)
-	origin	git@github.com:CatCodeMe/quartz_demo.git (push)
-	upstream	https://github.com/jackyzha0/quartz.git (fetch)
-	upstream	https://github.com/jackyzha0/quartz.git (push)
-	```
+```shell
+$ git remote -v
+origin	git@github.com:CatCodeMe/quartz_demo.git (fetch)
+origin	git@github.com:CatCodeMe/quartz_demo.git (push)
+upstream	https://github.com/jackyzha0/quartz.git (fetch)
+upstream	https://github.com/jackyzha0/quartz.git (push)
+```
 
 3. Hitherto , you can use single repo like quartz site, or use `submodule`
 4. For single repo, see [Quartz：Hosting](https://quartz.jzhao.xyz/hosting)
@@ -24,7 +24,6 @@
 
 # issues
 - ctime, utime
-
 
 
 [^1]: [quartz_demo repo](https://github.com/CatCodeMe/quartz_demo)
