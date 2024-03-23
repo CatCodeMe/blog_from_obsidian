@@ -78,7 +78,7 @@ Create a new file (click the `create a new file` blue link above), called `.gith
 		7. Go back to the homepage of the repository `content_demo`, click the `settings` tab, enter the settings page, and add the authorization of the token you just generated to the current repository. Click `New repository secret` button.
 		![20240322-publish_add_token_repo.png](img/user/999_repository/20240322-publish_add_token_repo.png)
 		8. Add TokenNext, add the token, **pay attention to**:
-			1. The `Name` **must be consistent with the `gh_action_token_PAT` name in step 1**. Of course, if you are using a different name, just modify the configuration of `.github/workflows/deploy.yml` to match the `Name` here.
+			1. The `Name` must be consistent with the `gh_action_token_PAT` name in acition config file(`.yaml`). Of course, if you are using a different name, just modify the configuration of `.github/workflows/deploy.yml` to match the `Name` here.
 			2. The `Secret` **is the token you copied and saved earlier**.
 			3. Once set, click `Add secret` to save.
 			![20240322-publish_add_token_repo_2.png](img/user/999_repository/20240322-publish_add_token_repo_2.png)
