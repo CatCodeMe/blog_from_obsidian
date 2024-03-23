@@ -58,9 +58,11 @@ $ git push
 > For beginners, you can follow the subsequent steps. If you are familiar with the github action , you can directly refer to and adjust these [notes repo action configuration](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml). and [compilation repo action config](https://github.com/CatCodeMe/quartz_demo/blob/v4/.github/workflows/ci.yaml)
 
 #### Configure Notes Repository (content_demo)
-1. You can do it directly on GitHub, or if you prefer Git client tools, you can clone it to your local machine for operation. Create a new file (click the `create a new file` blue link above), called `.github/workflows/deploy.yml`.
-	- **The folder path must be `.github/workflows `, and the file extension must be `.yml`**. The filename doesn't matter as long as it meets GitHub's requirements.
-	- For `deploy.yml`, you can refer to [deploy.yml](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml); after copying and modifying the content, click the `commit` button in the upper right corner to save the current file.
+>You can do it directly on GitHub, or if you prefer Git client tools, you can clone it to your local machine for operation. 
+
+Create a new file (click the `create a new file` blue link above), called `.github/workflows/deploy.yml`.
+- **The folder path must be `.github/workflows `, and the file extension must be `.yml`**. The filename doesn't matter as long as it meets GitHub's requirements.
+- For `deploy.yml`, you can refer to [deploy.yml](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml); after copying and modifying the content, click the `commit` button in the upper right corner to save the current file.
 	![20240322-publish_zh_yml.png](img/user/999_repository/20240322-publish_zh_yml.png)
 	- Replace `repo` option with the name from step 2, structured as `yourname/yourname.github.io`.
 	- The `token` option is the GitHub authentication token, pay attention when using it.
@@ -73,7 +75,7 @@ $ git push
 		5. Click `generate token` (❗️**Copy and save this generated token somewhere else first, as you will need it later**). If you forget, you can redo steps 3-5 to generate a new token.
 		6. After copying it, you can refresh the page or click the left navigation bar again to enter the `Fine grained tokens` page, select and click on the token you just generated, and you will see something similar to the screenshot below.
 			![20240324-publish_token_settings.png](img/user/999_repository/20240324-publish_token_settings.png)
-		1. Go back to the homepage of the repository `content_demo`, click the `settings` tab, enter the settings page, and add the authorization of the token you just generated to the current repository. Click `New repository secret` button.
+		7. Go back to the homepage of the repository `content_demo`, click the `settings` tab, enter the settings page, and add the authorization of the token you just generated to the current repository. Click `New repository secret` button.
 		![20240322-publish_add_token_repo.png](img/user/999_repository/20240322-publish_add_token_repo.png)
 		8. Add TokenNext, add the token, **pay attention to**:
 			1. The `Name` **must be consistent with the `gh_action_token_PAT` name in step 1**. Of course, if you are using a different name, just modify the configuration of `.github/workflows/deploy.yml` to match the `Name` here.
@@ -82,7 +84,6 @@ $ git push
 			![20240322-publish_add_token_repo_2.png](img/user/999_repository/20240322-publish_add_token_repo_2.png)
 		9. Once this is done, the actions for the current repository should be configured. At this point, the repository structure should look like this:
 			![20240322-publish_content_repo_demo.png](img/user/999_repository/20240322-publish_content_repo_demo.png)
-
 #### Configure Quartz Compilation Repository
 1. Go back to the `quartz_demo` repository and directly modify the `ci.yaml` file content after cloning the original repository (quartz).
 	1. Like the notes repository, this file must also be in the `.github/workflows/` folder, with no specific name requirements.
