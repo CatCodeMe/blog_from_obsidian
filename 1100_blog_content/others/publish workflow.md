@@ -55,7 +55,7 @@ $ git push
 ![20240324-publish_add_submodule.png](img/user/999_repository/20240324-publish_add_submodule.png)
 
 ### Configure GitHub Actions for Automatic Compilation
-> For beginners, you can follow the subsequent steps. If you are familiar with the github action , you can directly refer to and adjust these [notes repo action configuration](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml). and [compilation repo action config](https://github.com/CatCodeMe/quartz_demo/blob/v4/.github/workflows/ci.yaml)
+> For beginners, you can follow the subsequent steps. If you are familiar with the github action , you can directly refer to and adjust these files. [notes repo action config](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml) and [compilation repo action config](https://github.com/CatCodeMe/quartz_demo/blob/v4/.github/workflows/ci.yaml)
 
 #### Configure Notes Repository (content_demo)
 >You can do it directly on GitHub, or if you prefer Git client tools, you can clone it to your local machine for operation. 
