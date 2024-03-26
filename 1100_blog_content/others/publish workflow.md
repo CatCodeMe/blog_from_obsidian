@@ -1,5 +1,5 @@
 ---
-{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"dg-path":null,"date":"2024-03-21 16:56:09","updated":"2024-03-24 01:02:18","tags":["guide"]}
+{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"dg-path":null,"date":"2024-03-21 16:56:09","updated":"2024-03-24 01:13:43","tags":["guide"]}
 ---
 
 
@@ -8,7 +8,8 @@
 
 > [!tip]
 > 1. This article uses `quartz_demo` as the compilation library for Quartz.
-> 2. Use `content_demo` as the notes repository. In practical applications, your repository name should be `yourname.github.io`, but here we're using `content_demo` for illustration.
+> 	1. In practical applications, your repository name (compilation  repo) should be `yourname.github.io`
+> 2. Use `content_demo` as the notes repository,  here we're using `content_demo` for illustration.
 
 # TLDR
 1. Prepare the Quartz environment, refer to [Quartz: Get Started](https://quartz.jzhao.xyz/), as the compilation library.
