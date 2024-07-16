@@ -1,5 +1,5 @@
 ---
-{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"dg-path":null,"date":"2024-03-21 16:56:09","updated":"2024-03-24 01:13:43","tags":["guide"]}
+{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"dg-path":null,"date":"2024-03-21 16:56:09","updated":"2024-03-29 11:06:47","tags":["guide"]}
 ---
 
 
@@ -39,7 +39,7 @@
 	```
 3. As with previous steps, initialize another empty repository on GitHub, used for uploading your Obsidian notes, let's call it `content_demo`[^2].
 	- Only initialization is needed here; no further operations are required, like this:
-	![20240322-publish_init_content.png](img/user/999_repository/20240322-publish_init_content.png)
+	![20240322-publish_init_content.png|633](img/user/999_repository/20240322-publish_init_content.png)
 
 ### Configure Submodule
 1. Starting from this step, distinguish from the official single-library publishing method. We'll use `submodule`.
