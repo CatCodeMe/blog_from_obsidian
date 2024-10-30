@@ -1,5 +1,5 @@
 ---
-{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"dg-path":null,"date":"2024-03-21 16:56:09","updated":"2024-03-29 11:06:47","tags":["guide"]}
+{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"date":"2024-03-21 16:56:09","updated":"2024-10-10 16:07:23","tags":["guide"]}
 ---
 
 
