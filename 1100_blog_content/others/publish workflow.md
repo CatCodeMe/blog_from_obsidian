@@ -28,7 +28,7 @@
 2. Initialize your own Quartz compilation library, which should be called `yourname.github.io`, replacing `yourname` with your GitHub account name.
 	- Refer to [Quartz: Setting up your GitHub repository](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository).
 	- Up to this point, running `git remote -v` locally will yield the following result:
-		- quart_demo[^1] (quartz_demo is for illustration purposes; replace it with `yourname`)
+		- quart_demo[^abc] (quartz_demo is for illustration purposes; replace it with `yourname`)
 	```shell
 	$ git remote -v
 	# Replace quartz_demo with your own yourname.github.io
@@ -108,5 +108,5 @@ Create a new file (click the `create a new file` blue link above), called `.gith
 - Does not support local preview; this can be resolved with Obsidian plugins.
 	- The ccm-publisher plugin is currently under development for this feature, so stay tuned.
 
-[^1]: [quartz_demo repo](https://github.com/CatCodeMe/quartz_demo)
+[^abc]: [quartz_demo repo](https://github.com/CatCodeMe/quartz_demo)
 [^2]: [content_demo repo](https://github.com/CatCodeMe/content_demo.git)
