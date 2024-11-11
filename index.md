@@ -1,5 +1,5 @@
 ---
-{"date":"2024-03-19 15:44:49","updated":"2024-11-11 17:17:16","dg-publish":true,"dg-path":"/","title":"8Cats.life","description":"8cat.life的博客站点，编程方面的技术文章、博客建站、猫"}
+{"date":"2024-03-19 15:44:49","updated":"2024-11-11 17:17:16","dg-publish":true,"dg-path":"/","title":"8Cats.life","description":"8cat.life的博客站点，主要分享编程方面的技术文章和随笔，当然还有猫"}
 ---
 
 
