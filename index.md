@@ -7,12 +7,7 @@
 
 # Bonus
 > 包含一些原生Quartz没有的功能
-1. 阅读模式，点击搜索栏右侧图标  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-        </svg>，可以进入阅读模式
-```mermaid
-flowchart LR
-	A[建站]
-	B[猫]
-```
+1. 阅读模式，点击搜索栏右侧图标 👓 （包含foot-notes的文章才会有），可以进入阅读模式
+2. 页面右下角的进度滚动条
+
+
