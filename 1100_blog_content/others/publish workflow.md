@@ -1,7 +1,14 @@
----
-{"title":"publish workflow","description":"union quartz and obsidian to publish your notes to github page","dg-publish":true,"date":"2024-03-21 16:56:09","updated":"2024-11-04 16:47:11","tags":["guide"],"pin":false}
----
-
+{
+  "title": "publish workflow",
+  "description": "union quartz and obsidian to publish your notes to github page",
+  "dg-publish": true,
+  "date": "2024-03-21 16:56:09",
+  "updated": "2024-11-04 16:47:11",
+  "tags": [
+    "guide"
+  ],
+  "pin": false
+}
 
 > Based on the [quartz](https://quartz.jzhao.xyz/) and [ccm-publisher](https://github.com/CatCodeMe/ccm-publisher) plugins, publish Obsidian notes to GitHub Pages.
 > - Use `submodule` to completely separate the compilation and publishing of blog content, making it more flexible and convenient.
