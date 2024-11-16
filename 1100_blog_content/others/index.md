@@ -1,3 +1,4 @@
+---
 {
   "title": "others",
   "description": "others dir's content",
@@ -7,3 +8,5 @@
   "updated": "2024-11-04 16:47:11",
   "pin": false
 }
+---
+

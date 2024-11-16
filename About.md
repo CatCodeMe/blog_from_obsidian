@@ -1,3 +1,4 @@
+---
 {
   "title": "About",
   "description": "About this blog",
@@ -7,5 +8,7 @@
   "updated": "2024-11-04 16:47:11",
   "pin": false
 }
+---
+
 
 > a programmer , a cat-lover
