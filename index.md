@@ -1,7 +1,7 @@
 ---
 {
   "date": "2024-03-19 15:44:49",
-  "updated": "2024-11-21 16:16:47",
+  "updated": "2024-11-21 17:21:37",
   "dg-publish": true,
   "dg-path": "/",
   "title": "8Cats.life",
@@ -17,17 +17,36 @@
 
 > 欢迎来到我的博客站点，这里记录了我和我的猫的日常
 
-# Bonus
-1. 阅读模式，点击搜索栏右侧图标 👓 （包含foot-notes的文章才会有），可以进入阅读模式
-2. 页面右下角的进度滚动条
 
 # 最近更新
+目前共有: 6 篇笔记
 
-<p><span data-tag-name="p" class="el-p"><p dir="auto"><strong>目前共有:</strong> 8 <strong>篇笔记</strong></p></span></p><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">8</span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td></tr></tbody></table></div>
+目前共有: 6 篇笔记
 
+| 6 |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+| File                                                               |
+| ------------------------------------------------------------------ |
+| [[1100_blog_content/others/博客发布流程|博客发布流程]]                     |
+| [[1100_blog_content/others/testbanner|testbanner]]             |
+| [[1100_blog_content/00_cats/小花日记|小花日记]]                        |
+| [[1100_blog_content/others/publish workflow|publish workflow]] |
+| [[About.md|About]]                              |
+| [[1100_blog_content/00_cats/送你一朵小红花|送你一朵小红花]]                  |
 
 
 # 社交链接
-:LiRss: RSS： 
-:LiGithub: GitHub：
-:LiMail:(base64): aHVsajEwMTlAcXEuY29t
+- [RSS](https://8cat.life/index.xml)
+- [GitHub](https://github.com/catcodeme)
+- `Mail(base64)`: aHVsajEwMTlAcXEuY29t
+
+# Bonus
+- 阅读模式，点击右侧图标 👓 ，可以进入阅读模式
