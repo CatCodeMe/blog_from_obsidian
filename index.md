@@ -1,28 +1,26 @@
 ---
 {
   "date": "2024-03-19 15:44:49",
-  "updated": "2024-11-22 12:37:10",
+  "updated": "2024-11-22 19:26:29",
   "dg-publish": true,
   "dg-path": "/",
-  "title": "8Cats.life",
+  "title": "home",
   "description": "8cat.life的博客站点，主要分享编程方面的技术文章和随笔，当然还有猫",
   "tags": [
     "编程",
     "猫",
     "时事评论"
   ],
-  "banner": "img/user/1100_blog_content/_homepage/attachments/site.png",
-  "banner_y": 2
+  "banner": "img/user/1100_blog_content/_homepage/attachments/cat.png"
 }
 ---
 
 
 > 欢迎来到我的博客站点，这里记录了我和我的猫的日常
 
+## 近期更新
 
-## 
-
-
+- [[roadmap.md]]
 
 ## 社交链接
 - [RSS](https://8cat.life/index.xml)
