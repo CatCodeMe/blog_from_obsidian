@@ -1,7 +1,7 @@
 ---
 {
   "date": "2024-03-19 15:44:49",
-  "updated": "2024-11-25 15:15:16",
+  "updated": "2024-11-25 16:02:59",
   "dg-publish": true,
   "dg-path": "/",
   "title": "home",
@@ -20,14 +20,12 @@
 
 ## 近期更新
 
-- [[Archive.md]]
-
+- [[Archive]]
 ## 社交链接
 - [RSS](https://8cat.life/index.xml)
 - [GitHub](https://github.com/catcodeme)
 - `Mail(base64)`: aHVsajEwMTlAcXEuY29t
 
-
-> [!TIPS] 操作优化
-> - 阅读模式，点击右侧图标 👓 ，可以进入阅读模式
-> - 长文阅读进度提示
+### 操作优化
+- 阅读模式，点击右侧图标 👓 ，可以进入阅读模式
+- 长文阅读进度提示

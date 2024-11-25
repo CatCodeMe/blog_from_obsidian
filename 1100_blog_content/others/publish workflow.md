@@ -4,7 +4,7 @@
   "description": "union quartz and obsidian to publish your notes to github page",
   "dg-publish": true,
   "date": "2024-03-21 16:56:09",
-  "updated": "2024-11-04 16:47:11",
+  "updated": "2024-11-08 19:00:16",
   "tags": [
     "guide"
   ],
