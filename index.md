@@ -1,7 +1,7 @@
 ---
 {
   "date": "2024-03-19 15:44:49",
-  "updated": "2024-11-22 19:26:29",
+  "updated": "2024-11-25 15:02:14",
   "dg-publish": true,
   "dg-path": "/",
   "title": "home",
@@ -11,7 +11,7 @@
     "猫",
     "时事评论"
   ],
-  "banner": "img/user/1100_blog_content/_homepage/attachments/cat.png"
+  "banner": "img/user/1100_blog_content/_homepage/attachments/blog_homepage.webp"
 }
 ---
 
@@ -27,6 +27,7 @@
 - [GitHub](https://github.com/catcodeme)
 - `Mail(base64)`: aHVsajEwMTlAcXEuY29t
 
-## Bonus
-- 阅读模式，点击右侧图标 👓 ，可以进入阅读模式
-- 阅读进度提示
+
+> [!TIPS] 操作优化
+> - 阅读模式，点击右侧图标 👓 ，可以进入阅读模式
+> - 长文阅读进度提示
