@@ -21,11 +21,14 @@
 ## 近期更新
 
 - [[Archive]]
-## 社交链接
+
+## 订阅&联系我
+
 - [RSS](https://8cat.life/index.xml)
 - [GitHub](https://github.com/catcodeme)
 - `Mail(base64)`: aHVsajEwMTlAcXEuY29t
 
-### 操作优化
+### Bonus
 - 阅读模式，点击右侧图标 👓 ，可以进入阅读模式
 - 长文阅读进度提示
+- 已集成giscus评论插件, 刷新页面可见

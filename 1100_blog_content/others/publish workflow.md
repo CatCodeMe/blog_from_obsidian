@@ -49,7 +49,7 @@
 	```
 3. As with previous steps, initialize another empty repository on GitHub, used for uploading your Obsidian notes, let's call it `content_demo`[^2].
 	- Only initialization is needed here; no further operations are required, like this:
-	![20240322-publish_init_content.png|633](img/user/999_repository/20240322-publish_init_content.png)
+	![20240322-publish_init_content.png|633](img/user/9900_repository/20240322-publish_init_content.png)
 
 ### Configure Submodule
 1. Starting from this step, distinguish from the official single-library publishing method. We'll use `submodule`.
@@ -63,7 +63,7 @@ $ git commit -m "add submodule"
 $ git push
 ```
 3. At this step, the `quartz_demo` repository and the `content_demo` repository are connected using submodule; the blue links may be different, which is normal. If clicking on the content folder takes you to the `content_demo` repository, it means the configuration is successful.
-![20240324-publish_add_submodule.png](img/user/999_repository/20240324-publish_add_submodule.png)
+![20240324-publish_add_submodule.png](img/user/9900_repository/20240324-publish_add_submodule.png)
 
 ### Configure GitHub Actions for Automatic Compilation
 > For beginners, you can follow the subsequent steps. If you are familiar with the github action , you can directly refer to and adjust these files. [notes repo action config](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml) and [compilation repo action config](https://github.com/CatCodeMe/quartz_demo/blob/v4/.github/workflows/ci.yaml)
@@ -74,27 +74,27 @@ $ git push
 Create a new file (click the `create a new file` blue link above), called `.github/workflows/deploy.yml`.
 - **The folder path must be `.github/workflows `, and the file extension must be `.yml`**. The filename doesn't matter as long as it meets GitHub's requirements.
 - For `deploy.yml`, you can refer to [deploy.yml](https://github.com/CatCodeMe/content_demo/blob/main/.github/workflows/deploy.yml); after copying and modifying the content, click the `commit` button in the upper right corner to save the current file.
-	![20240322-publish_zh_yml.png](img/user/999_repository/20240322-publish_zh_yml.png)
+	![20240322-publish_zh_yml.png](img/user/9900_repository/20240322-publish_zh_yml.png)
 	- Replace `repo` option with the name from step 2, structured as `yourname/yourname.github.io`.
 	- The `token` option is the GitHub authentication token, pay attention when using it.
 		1. `${{ secrets.gh_action_token_PAT}}` In this setting, `gh_action_token_PAT` is a custom token name that you can decide on. It's better not to use Chinese or spaces.
 		2. Generate the token [here](https://github.com/settings/tokens?type=beta) (it's better to open it in a new tab in your browser for convenience).
-		![20240323-publish_start_generate_token.png](img/user/999_repository/20240323-publish_start_generate_token.png)
+		![20240323-publish_start_generate_token.png](img/user/9900_repository/20240323-publish_start_generate_token.png)
 		3. Choose which repositories this token can access.
-		![20240322-publish_select_repo.png](img/user/999_repository/20240322-publish_select_repo.png)
+		![20240322-publish_select_repo.png](img/user/9900_repository/20240322-publish_select_repo.png)
 		4. Set token permissions; scroll down on the current page; expand `Repository permissions`, find `Actions` and `Contents`, and set Access to `Read and write`.
 		5. Click `generate token` (❗️**Copy and save this generated token somewhere else first, as you will need it later**). If you forget, you can redo steps 3-5 to generate a new token.
 		6. After copying it, you can refresh the page or click the left navigation bar again to enter the `Fine grained tokens` page, select and click on the token you just generated, and you will see something similar to the screenshot below.
-			![20240324-publish_token_settings.png](img/user/999_repository/20240324-publish_token_settings.png)
+			![20240324-publish_token_settings.png](img/user/9900_repository/20240324-publish_token_settings.png)
 		7. Go back to the homepage of the repository `content_demo`, click the `settings` tab, enter the settings page, and add the authorization of the token you just generated to the current repository. Click `New repository secret` button.
-		![20240322-publish_add_token_repo.png](img/user/999_repository/20240322-publish_add_token_repo.png)
+		![20240322-publish_add_token_repo.png](img/user/9900_repository/20240322-publish_add_token_repo.png)
 		8. Add TokenNext, add the token, **pay attention to**:
 			1. The `Name` must be consistent with the `gh_action_token_PAT` name in acition config file(`.yaml`). Of course, if you are using a different name, just modify the configuration of `.github/workflows/deploy.yml` to match the `Name` here.
 			2. The `Secret` **is the token you copied and saved earlier**.
 			3. Once set, click `Add secret` to save.
-			![20240322-publish_add_token_repo_2.png](img/user/999_repository/20240322-publish_add_token_repo_2.png)
+			![20240322-publish_add_token_repo_2.png](img/user/9900_repository/20240322-publish_add_token_repo_2.png)
 		9. Once this is done, the actions for the current repository should be configured. At this point, the repository structure should look like this:
-			![20240322-publish_content_repo_demo.png](img/user/999_repository/20240322-publish_content_repo_demo.png)
+			![20240322-publish_content_repo_demo.png](img/user/9900_repository/20240322-publish_content_repo_demo.png)
 #### Configure Quartz Compilation Repository
 1. Go back to the `quartz_demo` repository and directly modify the `ci.yaml` file content after cloning the original repository (quartz).
 	1. Like the notes repository, this file must also be in the `.github/workflows/` folder, with no specific name requirements.
@@ -102,7 +102,7 @@ Create a new file (click the `create a new file` blue link above), called `.gith
 2. Here, we choose to modify it.
 	- Use the content after modification from my [configuration file](https://github.com/CatCodeMe/quartz_demo/blob/v4/.github/workflows/ci.yaml).
 	- only on point need to update, `token name`, `gh_action_token_PAT` need to same as your config
-	![20240324-pulish_quartz_action_token.png](img/user/999_repository/20240324-pulish_quartz_action_token.png)
+	![20240324-pulish_quartz_action_token.png](img/user/9900_repository/20240324-pulish_quartz_action_token.png)
 
 #### Configuration Completion
 - With all configurations completed, try publishing notes to the `content_demo` repository and check if the actions (which by default will send notifications to your GitHub email) are successful.

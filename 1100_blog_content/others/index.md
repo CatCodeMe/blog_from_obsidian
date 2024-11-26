@@ -1,7 +1,7 @@
 ---
 {
   "title": "others",
-  "description": "others dir's content",
+  "description": "建站相关的杂文",
   "dg-publish": true,
   "dg-path": null,
   "date": "2024-03-21 16:58:13",
