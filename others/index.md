@@ -5,7 +5,7 @@
   "dg-publish": true,
   "dg-path": null,
   "date": "2024-03-21 16:58:13",
-  "updated": "2024-11-27 16:09:25",
+  "updated": "2024-11-27 19:49:18",
   "pin": false
 }
 ---
@@ -148,6 +148,7 @@ function demo() {
 ```
 
 
+### mermaid can't be render 
 ````mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
