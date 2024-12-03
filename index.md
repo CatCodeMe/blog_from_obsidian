@@ -11,7 +11,8 @@
     "猫",
     "时事评论"
   ],
-  "banner": "img/user/1100_blog_content/_homepage/attachments/blog_homepage.webp"
+  "banner": "img/user/1100_blog_content/_homepage/attachments/blog_homepage.webp",
+  "comments": false
 }
 ---
 
