@@ -10,7 +10,8 @@
   ],
   "pin": false,
   "comments": true,
-  "feature": "20240322-publish_init_content.png"
+  "feature": "20240322-publish_init_content.png",
+  "backlinks": true
 }
 ---
 
